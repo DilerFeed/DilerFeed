@@ -1,10 +1,12 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys!</h1>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Gleb (Hlib in Ukrainian).<br>
-        At the moment, I completed the 1st year of computer science at the university.<br>
+        I'm currently a second year computer science student at university.<br>
         During this time, I completed the CS50 course, learned several languages. I like to do what interests me.<br>
+        Also, I recently started a YouTube channel where I publish programming videos.<br>
+        Channel link – https://youtube.com/@tesseract_<br>
     </i><br>
     <a href="https://www.linkedin.com/in/gleb-ishchenko-4b2343273">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
