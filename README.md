@@ -3,8 +3,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Gleb (Hlib in Ukrainian).<br>
-        I'm currently a second year computer science student at university.<br>
-        During this time, I completed the CS50 course, learned several languages. I like to do what interests me.<br>
+        I'm currently a third year computer science student at university.<br>
+        I just REALLY love doing what I like :)<br>
         Also, I recently started a YouTube channel where I publish programming videos.<br>
         Channel link – https://youtube.com/@tesseract_<br>
     </i><br>
