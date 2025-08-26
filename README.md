@@ -39,7 +39,7 @@ I don’t chase frameworks — I chase **understanding**. I don’t just ship �
 
 - 🔬 Scientific research in progress (fingers crossed 🤞 for competitions)
 - 🛠️ 2 software author certificates (1 granted, 1 incoming)  
-- 📹 [YouTube channel](https://www.youtube.com/@tesseract) — 2k+ subs mostly from 10 nerdy videos about neural nets
+- 📹 [YouTube channel](https://www.youtube.com/@tesseract_) — 2k+ subs mostly from 10 nerdy videos about neural nets
 - 🌌 Repositories with attention — one has 20+ ⭐ organically  
 - 🧩 Developed a plugin to bridge *real hardware inputs into a game world*, fusing Python, Lua, and a bit of madness
 
